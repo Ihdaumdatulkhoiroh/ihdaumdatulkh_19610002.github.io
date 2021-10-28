@@ -25,7 +25,7 @@ body {
   
   .main {
     padding: 100px 80px;
-    background-image: url(batik.jpg);
+    background-color: cyan;
   }
   .copy-container h1 {
     font-size: 140px;
